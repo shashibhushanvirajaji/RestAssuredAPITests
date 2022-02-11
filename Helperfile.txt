@@ -1,0 +1,8 @@
+
+
+https://www.liquid-technologies.com/online-json-to-schema-converter
+
+https://cswr.github.io/JsonSchema/spec/basic_types/#:~:text=JSON%20Documents%20can%20be%20either,can%20be%20any%20of%20these.
+
+https://www.jsonschemavalidator.net/
+
